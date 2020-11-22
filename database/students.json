@@ -6,19 +6,19 @@
     },
     "2": {
         "name": "ATARIAN Djimmy",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/djimmy.jpg",
         "cv-url": "https://cvdjimmy.000webhostapp.com/"
 
     },
     "3": {
         "name": "BEBON Frédéric",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/fred.png",
         "cv-url": "https://fredericbebon.fr/"
     },
     "4": {
-        "name": "DE CONDAPPA Eric",
-        "img-url": "http://placekitten.com/200/300",
-        "cv-url": "#"
+        "name": "COHAN Charlotte",
+        "img-url": "/style/imgs/photos/charlotte.jpg",
+        "cv-url": "https://cohancharlotte.com/"
     },
     "5": {
         "name": "DUARTE Tiago",
@@ -27,12 +27,12 @@
     },
     "6": {
         "name": "DURET Florent",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/f.Duret.jpeg",
         "cv-url": "https://florentduret.000webhostapp.com/"
     },
     "7": {
         "name": "EL GOUZI Soufiane",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/soufiane.jpg",
         "cv-url": "https://cv-soufiane-elgouzi.mystrikingly.com/"
     },
     "8": {
@@ -43,12 +43,12 @@
     "9": {
         "name": "GALLAND Thibault",
         "img-url": "/style/imgs/photos/Thibault-Galland.jpg",
-        "cv-url": "cvthibaultgalland.fr"
+        "cv-url": "https://www.cvthibaultgalland.fr/"
     },
     "10": {
         "name": "GUERRY Solène",
         "img-url": "/style/imgs/photos/Photo-profil-Solène-Guerry.jpg",
-        "cv-url": "#"
+        "cv-url": "https://cvdesoleneguerry.000webhostapp.com/"
     },
     "11": {
         "name": "LAILLET Arnaud",
@@ -62,22 +62,22 @@
     },
     "13": {
         "name": "LEGRAND Julien",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/julien.jpg",
         "cv-url": "https://julienlegrand.netlify.app/"
     },
     "14": {
         "name": "NION Alexandre",
-        "img-url": "http://placekitten.com/200/300",
+        "img-url": "/style/imgs/photos/Alexandre-Nion.jpg",
         "cv-url": "http://nion-alexandre.fr/"
     },
     "15": {
         "name": "RIEU Brice",
-        "img-url": "http://placekitten.com/200/300",
-        "cv-url": "#"
+        "img-url": "/style/imgs/photos/brice.jpg",
+        "cv-url": "https://bricerieucv.fr/"
     },
     "16": {
         "name": "UDE Florence",
         "img-url": "/style/imgs/photos/Udé-Florence.jpg",
-        "cv-url": "cvflorenceude.fr"
+        "cv-url": "https://cvflorenceude.fr/"
     }
 }

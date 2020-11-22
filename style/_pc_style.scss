@@ -1,15 +1,17 @@
 header {
-    background-color: crimson;
-    // background-image: url('/style/imgs/pexels-lukas-574073.jpg');
+    // background-color: crimson;
+    background-image: url('/style/imgs/pexels-negative-space-160107.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    // filter: grayscale(100%);
+    filter: grayscale(100%);
+    color: white;
     min-height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     .content {
+        animation: fadeInOut .8s ease-in-out;
         text-align: center;
         h1 {
             margin: auto 0;
@@ -22,6 +24,7 @@ header {
 }
 
 section#about {
+    animation: toUp 1s ease-in-out;
     .content {
         display: flex;
         min-height: 450px;
@@ -32,12 +35,15 @@ section#about {
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
-            filter: grayscale(100%);
+            // filter: grayscale(100%);
         }
         .right {
             width: 50%;
             background-color: #eee;
             .container {
+                h3 {
+                    font-size: 1.6em;
+                }
                 padding: 1em 2.6em;
                 p {
                     text-align: justify;
@@ -66,7 +72,7 @@ main {
         }
         a.card {
             width: 250px;
-            height: 300px;
+            height: 325px;
             text-align: center;
             margin-bottom: 2em;
             background-color: white;
@@ -79,9 +85,12 @@ main {
             &:hover {
                 transform: scale(1.1);
             }
-            img {
+            span {
                 display: block;
                 height: 80%;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
             }
             h3 {
                 display: flex;

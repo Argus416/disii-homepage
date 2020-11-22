@@ -10,7 +10,7 @@ const getStudents = data => {
 
         const cardStudentTemplate = `
         <a href="${studentValues[2]}" class="card" target="_blank">
-            <img src="${studentValues[1]}">
+        <span style="background-image: url('${studentValues[1]}');"></span>
             <h3>${studentValues[0]}</h3>
         </a>`;
         container.innerHTML += cardStudentTemplate;
