@@ -1,0 +1,83 @@
+{
+    "1": {
+        "name": "ALKHATIB Mohamad",
+        "img-url": "/style/imgs/photos/mohamad-photo-profile.jpeg",
+        "cv-url": "https://mohamad-alkhatib-cv.netlify.app/"
+    },
+    "2": {
+        "name": "ATARIAN Djimmy",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://cvdjimmy.000webhostapp.com/"
+
+    },
+    "3": {
+        "name": "BEBON Frédéric",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://fredericbebon.fr/"
+    },
+    "4": {
+        "name": "DE CONDAPPA Eric",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "#"
+    },
+    "5": {
+        "name": "DUARTE Tiago",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://cv-duarte-tiago.000webhostapp.com"
+    },
+    "6": {
+        "name": "DURET Florent",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://florentduret.000webhostapp.com/"
+    },
+    "7": {
+        "name": "EL GOUZI Soufiane",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://cv-soufiane-elgouzi.mystrikingly.com/"
+    },
+    "8": {
+        "name": "FLEURENTIN Arnaud",
+        "img-url": "/style/imgs/photos/Arnaud-F.jpg",
+        "cv-url": "https://arnaudfleurentin.mystrikingly.com/"
+    },
+    "9": {
+        "name": "GALLAND Thibault",
+        "img-url": "/style/imgs/photos/Thibault-Galland.jpg",
+        "cv-url": "cvthibaultgalland.fr"
+    },
+    "10": {
+        "name": "GUERRY Solène",
+        "img-url": "/style/imgs/photos/Photo-profil-Solène-Guerry.jpg",
+        "cv-url": "#"
+    },
+    "11": {
+        "name": "LAILLET Arnaud",
+        "img-url": "/style/imgs/photos/Arnaud-Laillet-photo-de-profil.jpg",
+        "cv-url": "https://arnaudlaillet.mystrikingly.com/"
+    },
+    "12": {
+        "name": "LE GOFF Vincent",
+        "img-url": "/style/imgs/photos/vincent-lg.jpg",
+        "cv-url": "https://cv-vincent-legoff.000webhostapp.com/"
+    },
+    "13": {
+        "name": "LEGRAND Julien",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "https://julienlegrand.netlify.app/"
+    },
+    "14": {
+        "name": "NION Alexandre",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "http://nion-alexandre.fr/"
+    },
+    "15": {
+        "name": "RIEU Brice",
+        "img-url": "http://placekitten.com/200/300",
+        "cv-url": "#"
+    },
+    "16": {
+        "name": "UDE Florence",
+        "img-url": "/style/imgs/photos/Udé-Florence.jpg",
+        "cv-url": "cvflorenceude.fr"
+    }
+}

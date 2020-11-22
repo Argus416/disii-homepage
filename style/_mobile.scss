@@ -1,0 +1,44 @@
+@media screen and (max-width:500px) {
+    header {
+        .content {
+            h1 {
+                font-size: 2.3em;
+            }
+            h2 {
+                font-size: 1.8em;
+            }
+        }
+    }
+    section#about {
+        font-size: .9em;
+    }
+    main {
+        .content {
+            h3 {
+                margin: 2em;
+            }
+        }
+    }
+    footer {
+        .content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            .logo,
+            p {
+                width: 100%;
+                text-align: center;
+            }
+            .logo {
+                display: flex;
+                justify-content: center;
+                height: 100px;
+            }
+            p {
+                padding-top: 2em;
+                padding-bottom: 1em;
+            }
+        }
+    }
+}

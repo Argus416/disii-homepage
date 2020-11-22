@@ -1,0 +1,17 @@
+@mixin btns {
+    border: none;
+    padding: 1em;
+    font-size: .8em;
+    cursor: pointer;
+    background-color: $light-black;
+    color: white;
+    border-radius: 20px;
+    transition: opacity .2s ease-in-out;
+    text-decoration: none;
+    &:hover {
+        opacity: .8;
+    }
+    &::visited {
+        color: white;
+    }
+}
